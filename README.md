@@ -1,6 +1,6 @@
 # global
 
-[global](https://kbyungs.github.io/global/)
+[global](https://kbyungs.github.io/global/) <-- 링크
 
 GPT API를 사용해보고 싶어서 한번 해봄
 
