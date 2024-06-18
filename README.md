@@ -2,6 +2,8 @@
 
 [global](https://kbyungs.github.io/global/) <-- 링크
 
+<img width="897" alt="스크린샷 2024-06-18 오후 12 38 48" src="https://github.com/Kbyungs/global/assets/86033302/fdce2fb1-6bb8-48ff-8ae7-61678eb998d3">
+
 GPT API를 사용해보고 싶어서 한번 해봄
 
 global = 글로 벌 드립이 생각나서 했음
